@@ -20,7 +20,7 @@ body {
 .header--sub-header {
   font-size: 21px;
   color: grey;
-  
+
 }
 
 /* LINKS */
@@ -30,3 +30,9 @@ body {
   color: aquamarine;
 }
 
+/* FOOTER */
+.footer {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
